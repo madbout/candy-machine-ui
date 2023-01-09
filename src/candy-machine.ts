@@ -443,7 +443,7 @@ export const mintOneToken = async (
           userTokenAccountAddress,
           payer,
           [],
-          1
+          3
         ),
       ]
     );
